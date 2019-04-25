@@ -12,7 +12,7 @@ const {
 
 module.exports = {
   entry: {
-    main: './' + src_Path + '/index.ts'
+    main: './' + src_Path + '/lib/index.ts'
   },
   resolve: {
     extensions: ['.ts', '.js']
